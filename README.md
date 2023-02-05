@@ -1,5 +1,5 @@
-### Concat
-<h3>E-mail : <p>hyj_1104@naver.com</p></h3>
+### 개인정보 및 연락처
+E-mail : hyj_1104@naver.com
 
 ### <img src="https://img.shields.io/badge/ -FF6719?style=square&logo=SubStack&logoColor=white"> Skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAF8?style=flat&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/VUE-4FC080?style=flat&logo=Vue.js&logoColor=white">  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/Electron-47848F?style=square&logo=Electron&logoColor=white">
