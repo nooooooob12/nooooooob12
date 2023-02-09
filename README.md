@@ -9,3 +9,4 @@ E-mail : hyj_1104@naver.com
 
 ### 현재 공부중인 Stack
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
+<p>기초개념부터 다시 차근차근 밟아나가며 공부하고 있습니다.</p>
