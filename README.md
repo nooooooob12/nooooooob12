@@ -8,5 +8,3 @@ E-mail : hyj_1104@naver.com
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
 
 ### 현재 공부중인 Stack
-<img src="https://img.shields.io/badge/Next-000000?style=plastic&logo=Next.js&logoColor=white">
-<p>토이프로젝트에 활용하고자 해당 프레임워크의 기초적인 개념과 사용법에 대해 익히고 적용해보고 있습니다.</p>
